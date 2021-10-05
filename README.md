@@ -1,1 +1,0 @@
-prints formated strings
