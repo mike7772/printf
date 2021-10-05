@@ -1,4 +1,4 @@
-.TH _PRINTF 3 "December 2018" "0.1" "Holberton School 0x10. C - _printf"
+.TH _PRINTF 3 "October 2021" "0.1" "Holberton School 0x10. C - _printf"
 
 .SH NAME
 .B _printf\fR \- formatted output conversion
