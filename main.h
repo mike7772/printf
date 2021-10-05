@@ -2,7 +2,6 @@
 #define MAIN_H
 #include <stdarg.h>
 int _printf(const char *format, ...);
-int get_flags(char s, mods *f);
 int print_char(va_list ap);
 int print_str(va_list ap);
 int print_nbr(va_list ap);
